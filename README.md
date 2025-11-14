@@ -38,10 +38,20 @@ project/
 - Precision
 - Recall
 - F1-Score
+```
+## Model Performance Comparison
+
+| Model         | Accuracy | Precision | Recall | F1 Score |
+|---------------|----------|-----------|--------|----------|
+| Naive Bayes   | 0.5645   | 0.7135    | 0.5645 | 0.4724   |
+| Random Forest | 0.9979   | 0.9979    | 0.9979 | 0.9979   |
+| KNN           | 0.9888   | 0.9888    | 0.9888 | 0.9888   |
+
+```
 
 ## Dataset
-```
 - CIC-IDS2017
+```
 - https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset
 ```
 
