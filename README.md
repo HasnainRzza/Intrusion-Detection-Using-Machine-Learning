@@ -15,13 +15,13 @@ A machine-learning–based Intrusion Detection System (IDS) designed to detect m
 ---
 
 ## Project Structure
-
+```
 project/
-│── data/ # Dataset files (not included)
-│── models/ # Saved models (optional)
-│── Intrusion_Detection.ipynb # Main Jupyter Notebook
-│── README.md # Documentation
-
+- data/ # Dataset files (not included)
+- models/ # Saved models (optional)
+- Intrusion_Detection.ipynb # Main Jupyter Notebook
+- README.md # Documentation
+```
 ---
 
 ## Models Used
