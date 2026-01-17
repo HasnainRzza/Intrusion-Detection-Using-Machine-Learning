@@ -120,5 +120,4 @@ If you have questions, suggestions, or would like to collaborate, feel free to r
 - **scikit‑learn**, **imbalanced‑learn**, **pandas**, **numpy** – core libraries used throughout the notebook.
 
 ---
-
-*Happy hacking! 🚀*
+Happy Exploring
